@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 Solution Items", "00 Solution Items", "{EB25F1C9-1025-4553-A8C4-1C1EDA414F0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10 Clients", "10 Clients", "{2AD04FE2-5A5E-4D29-AC8C-1A2CBCDBF390}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "30 Business Layer Interfaces", "30 Business Layer Interfaces", "{FD9928E6-51FA-488A-AC17-F772816A605D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "40 Repository Interfaces", "40 Repository Interfaces", "{E8520317-DCD9-4AFF-BAE3-018DBE680A31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "50 Domain Entities", "50 Domain Entities", "{EE1F2C6E-4039-4B6B-900C-042027CD2BDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "60 ---------------------------", "60 ---------------------------", "{8A2B84FF-7B98-41C8-852A-D05A837B2531}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "70 Dependency Resolvers", "70 Dependency Resolvers", "{61CD392A-D844-40EA-B822-551BBCC5715C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "80 Dependencies", "80 Dependencies", "{7BD1C284-3554-43FC-9451-28278E9D895E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "90 Common", "90 Common", "{0A979C74-D08B-4C3E-AEFC-91DFCAF7548A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{9E582CEB-8EFC-472F-A02B-394DD5CA9FB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{507D71BB-64E7-4FF0-B296-79DA70D5671B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{0BBCD54F-00A1-4907-876A-C032D89850D2}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E582CEB-8EFC-472F-A02B-394DD5CA9FB1} = {7BD1C284-3554-43FC-9451-28278E9D895E}
+		{507D71BB-64E7-4FF0-B296-79DA70D5671B} = {7BD1C284-3554-43FC-9451-28278E9D895E}
+		{0BBCD54F-00A1-4907-876A-C032D89850D2} = {7BD1C284-3554-43FC-9451-28278E9D895E}
+	EndGlobalSection
+EndGlobal
